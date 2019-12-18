@@ -13,7 +13,7 @@ Testing a minimalistic, yet vulnerable [Ruby on Rails](https://rubyonrails.org/)
 https://github.com/wallarm/fast-example-rails
 
 Automated testing of [dvwa](http://www.dvwa.co.uk/) with Selenium:
-https://github.com/wallarm/fast-example-circleci-dvwa-integration
+https://github.com/wallarm/fast-example-dvwa
 
 ## Jenkins
 
