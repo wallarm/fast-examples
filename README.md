@@ -22,7 +22,7 @@ Autotesting DVWA in a [Jenkins](https://jenkins.io/) freestyle pipeline:
 https://github.com/wallarm/fast-example-jenkins-dvwa-integration
 
 Plugin for freestyle Jenkins projects:
-https://github.com/jenkinsci/wallarm-fast-plugin (also at https://github.com/wallarm/FastJenkinsPlugin )
+https://github.com/jenkinsci/wallarm-fast-plugin (also at https://github.com/wallarm/FastJenkinsPlugin)
 
 ## CircleCI
 
