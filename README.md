@@ -12,21 +12,21 @@ Learn more about FAST:
 
 ## Manual 
 
-* Testing a minimalistic and vulnerable Ruby on Rails application with [Selenium](https://selenium.dev):
+* Testing a minimalistic and vulnerable Ruby on Rails application with Selenium:
 https://github.com/wallarm/fast-example-rails
-* Automated testing of [DVWA](http://www.dvwa.co.uk/) with Selenium:
+* Automated testing of [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/) with Selenium:
 https://github.com/wallarm/fast-example-dvwa
 
 ## Jenkins
 
-* Autotesting DVWA in a [Jenkins](https://jenkins.io/) freestyle pipeline:
+* Autotesting DVWA in a Jenkins freestyle pipeline:
 https://github.com/wallarm/fast-example-jenkins-dvwa-integration
 * Plugin for the freestyle Jenkins projects:
 https://github.com/jenkinsci/wallarm-fast-plugin (also at https://github.com/wallarm/FastJenkinsPlugin)
 
 ## CircleCI
 
-* Example of running DVWA with FAST in the [CircleCI](https://circleci.com/) environment:
+* Example of running DVWA with FAST in the CircleCI environment:
 https://github.com/wallarm/fast-example-circleci-dvwa-integration
 * Similar setup with the Ruby on Rails example:
 https://github.com/wallarm/fast-example-circleci-rails-integration
@@ -36,5 +36,5 @@ https://github.com/wallarm/fast-example-circleci-orb-rails-integration
 
 ## Gitlab
 
-* Testing DVWA in [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/):
+* Testing DVWA in Gitlab CI/CD:
 https://gitlab.com/wallarm/fast-example-gitlab-dvwa-integration
