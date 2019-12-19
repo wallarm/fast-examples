@@ -12,7 +12,7 @@ Learn more about FAST:
 
 ## Manual 
 
-* Testing a minimalistic, yet vulnerable [Ruby on Rails](https://rubyonrails.org/) application with [Selenium](https://selenium.dev/):
+* Testing a minimalistic and vulnerable Ruby on Rails application with [Selenium](https://selenium.dev):
 https://github.com/wallarm/fast-example-rails
 * Automated testing of [DVWA](http://www.dvwa.co.uk/) with Selenium:
 https://github.com/wallarm/fast-example-dvwa
