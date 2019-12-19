@@ -5,6 +5,7 @@
 Wallarm's Framework for Automated Security Testing (FAST) is a purpose-built tool that allows you to reveal vulnerabilities in applications and APIs by generating and executing security tests in an automatic way. SQL injections and XSS are examples of such vulnerabilities.
 
 Below you can find links to several examples of FAST usage, from manual script testing to full integration with common CI tools.
+
 More information on FAST can be found [here](https://wallarm.com/products/fast) and [here](https://docs.fast.wallarm.com/en/)
 
 ## Manual 
