@@ -40,5 +40,5 @@ https://github.com/wallarm/fast-orb
 
 ## Gitlab
 
-Testing DVWA in Gitlab's built-in [CI/CD](https://docs.gitlab.com/ee/ci/):
+Testing DVWA in [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/):
 https://gitlab.com/wallarm/fast-example-gitlab-dvwa-integration
