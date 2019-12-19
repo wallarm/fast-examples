@@ -24,7 +24,7 @@ https://github.com/jenkinsci/wallarm-fast-plugin (also at https://github.com/wal
 
 ## CircleCI
 
-* Example of running DVWA with FAST in a [CircleCI](https://circleci.com/) environment:
+* Example of running DVWA with FAST in the [CircleCI](https://circleci.com/) environment:
 https://github.com/wallarm/fast-example-circleci-dvwa-integration
 * Similar setup with the Ruby on Rails example:
 https://github.com/wallarm/fast-example-circleci-rails-integration
