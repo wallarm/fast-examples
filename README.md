@@ -31,7 +31,7 @@ https://github.com/wallarm/fast-example-circleci-dvwa-integration
 Similar setup with the Ruby on Rails example:
 https://github.com/wallarm/fast-example-circleci-rails-integration
 
-The same example, but using FAST as an Orb ([featured here](https://circleci.com/orbs/)):
+The same example, but using FAST as an Orb ([featured here](https://circleci.com/orbs/):
 https://github.com/wallarm/fast-example-circleci-orb-rails-integration
 
 Link to the Orb itself:
