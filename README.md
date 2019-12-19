@@ -6,7 +6,7 @@ Wallarm's Framework for Automated Security Testing (FAST) is a purpose-built too
 
 Below you can find links to several examples of FAST usage, from manual script testing to full integration with common CI tools.
 
-More information on FAST can be found [here](https://wallarm.com/products/fast) and [here](https://docs.fast.wallarm.com/en/)
+More information on FAST can be found [here](https://wallarm.com/products/fast) and [here](https://docs.fast.wallarm.com/en/).
 
 ## Manual 
 
