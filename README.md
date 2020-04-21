@@ -33,8 +33,15 @@ https://github.com/wallarm/fast-example-circleci-rails-integration
 * The same example, but using FAST as an Orb ([featured here](https://circleci.com/orbs/):
 https://github.com/wallarm/fast-example-circleci-orb-rails-integration
 * Link to the Orb itself: https://github.com/wallarm/fast-orb
+* Example of integration directly into existing specs via wallarm API: https://github.com/wallarm/fast-example-api-circleci-rails-integration
 
 ## Gitlab
 
 * Testing DVWA in Gitlab CI/CD:
 https://gitlab.com/wallarm/fast-example-gitlab-dvwa-integration
+
+## Azure
+* DVWA testing in Azure DevOps pipeline: https://github.com/wallarm/fast-example-azure-dvwa-integration
+
+## Bamboo
+* An example of a Bamboo pipeline testing DVWA: https://github.com/wallarm/fast-example-bamboo-dvwa-integration
